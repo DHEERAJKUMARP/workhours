@@ -1,0 +1,24 @@
+[
+  {
+    "date": "2024-11-12",
+    "checkInTime": "19:07",
+    "checkOutTime": "22:07",
+    "workingHours": "3 hours 0 minutes",
+    "exitStatus": "Early Exit by 6 hours 0 minutes",
+    "leaveType": "",
+    "isCompOffDay": true,
+    "linkedMissedDay": "",
+    "notes": ""
+  },
+  {
+    "date": "2024-11-13",
+    "checkInTime": "11:30",
+    "checkOutTime": "22:07",
+    "workingHours": "10 hours 37 minutes",
+    "exitStatus": "Late Exit by 1 hours 37 minutes",
+    "leaveType": "",
+    "isCompOffDay": false,
+    "linkedMissedDay": "",
+    "notes": ""
+  }
+]
